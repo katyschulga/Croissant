@@ -9,8 +9,9 @@ p {
 }
 
 img {
-    margin: 0 auto;
-    max-width: 400px;
+    margin: 30px auto;
+    max-width: 100%;
+    display: block;
     border-radius: 12px;
     margin-bottom: 30px;
 }
